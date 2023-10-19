@@ -44,7 +44,7 @@ export default function fretboardQuiz({
           }}
         >
           <div className="fretboardquiz">
-          <button onClick={startStaffQuiz}>Staff</button>
+          {/* <button onClick={startStaffQuiz}>Staff</button> */}
             <div>
               <img
                 className="fretboard"
