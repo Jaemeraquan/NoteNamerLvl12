@@ -25,7 +25,7 @@ import E from "./assets/images/staffE.jpg";
 import E1 from "./assets/images/staffE1.jpg";
 import F1 from "./assets/images/staffF1.jpg";
 import B from "./assets/images/staffB.jpg";
-import C from "./assets/images/staffC.jpg";
+import C from "./assets/images/staffC1.jpg";
 import F from "./assets/images/staffF.jpg";
 import G from "./assets/images/staffG.jpg";
 import C2audio from "./assets/audio/pitch recognition audio-C2.wav";
